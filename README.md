@@ -1,9 +1,11 @@
-########## check gpt: https://chatgpt.com/c/676e99ea-6f18-800c-b82a-63f4a7eea1fe
+
 ---
 
 # SSH Key Setup for Cloning GitHub Repository
 
 This guide will walk you through the process of setting up SSH keys to clone a repository from GitHub. It will cover generating SSH keys, adding them to GitHub, and troubleshooting common issues.
+
+ check gpt: https://chatgpt.com/c/676e99ea-6f18-800c-b82a-63f4a7eea1fe
 
 ## Step 1: Generate an SSH Key Pair
 
