@@ -13,7 +13,7 @@ The design principles:
 * Failures are predictable and diagnosable.
 
 
- check gpt: https://chatgpt.com/c/676e99ea-6f18-800c-b82a-63f4a7eea1fe
+ check [MORE INFO](https://chatgpt.com/c/676e99ea-6f18-800c-b82a-63f4a7eea1fe)
 
 ---
 
